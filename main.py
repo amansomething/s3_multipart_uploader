@@ -3,7 +3,7 @@ import boto3
 from botocore.client import Config
 import requests
 
-# Define variables - Can use https://min.io/docs/minio/linux/index.html
+# Can use https://min.io/docs/minio/linux/index.html to mock s3
 ACCESS_KEY = "USER"
 SECRET_KEY = "PASS"
 BUCKET_NAME = "BUCKET"
